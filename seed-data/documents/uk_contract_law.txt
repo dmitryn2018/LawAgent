@@ -1,0 +1,129 @@
+PRINCIPLES OF UK CONTRACT LAW
+
+1. FORMATION OF CONTRACT
+
+1.1. Essential Elements
+
+For a contract to be valid under English law, the following elements must be present:
+- Offer: A clear and definite proposal made by one party
+- Acceptance: Unqualified agreement to all terms of the offer
+- Consideration: Something of value exchanged between parties
+- Intention to create legal relations: Presumed in commercial agreements
+- Certainty of terms: Key terms must be sufficiently certain
+
+1.2. Offer and Acceptance
+
+The "mirror image rule" requires that acceptance must be an unconditional agreement to all terms of the offer. A counter-offer constitutes a rejection of the original offer and creates a new offer.
+
+Communication of acceptance:
+- Postal rule: Acceptance effective when posted
+- Instantaneous communications: Effective when received
+- Electronic communications: Electronic Commerce Regulations apply
+
+2. TERMS OF CONTRACT
+
+2.1. Express Terms
+
+Terms explicitly agreed by the parties, either:
+- In writing (preferred for commercial contracts)
+- Orally agreed
+- Partly written, partly oral
+
+2.2. Implied Terms
+
+Terms may be implied by:
+- Statute (e.g., Sale of Goods Act 1979)
+- Custom or trade usage
+- The courts (to give business efficacy)
+
+2.3. Conditions, Warranties, and Innominate Terms
+
+- Conditions: Fundamental terms; breach allows termination and damages
+- Warranties: Minor terms; breach allows damages only
+- Innominate terms: Consequences depend on severity of breach
+
+3. REMEDIES FOR BREACH
+
+3.1. Damages
+
+The primary remedy for breach of contract:
+- Compensatory damages: Put claimant in position as if contract performed
+- Expectation loss: Loss of bargain
+- Reliance loss: Wasted expenditure
+- Consequential damages: Foreseeable losses
+
+Remoteness test (Hadley v Baxendale):
+- Naturally arising from breach, or
+- Within reasonable contemplation of parties at contract formation
+
+3.2. Specific Performance
+
+Equitable remedy ordering party to perform contractual obligations:
+- Discretionary
+- Available where damages inadequate
+- Not available for personal service contracts
+
+3.3. Injunctions
+
+Court order requiring party to do or refrain from doing something:
+- Prohibitory: Restrains breach of negative covenant
+- Mandatory: Requires positive action
+
+4. LIMITATION OF LIABILITY
+
+4.1. Unfair Contract Terms Act 1977 (UCTA)
+
+Key provisions:
+- Cannot exclude liability for death or personal injury caused by negligence
+- Other negligence liability can only be excluded if "reasonable"
+- In business-to-business contracts, exclusion clauses subject to reasonableness test
+
+4.2. Consumer Rights Act 2015
+
+For consumer contracts:
+- Unfair terms not binding on consumer
+- Core terms exempt if transparent and prominent
+- Grey list of potentially unfair terms
+
+5. FORCE MAJEURE AND FRUSTRATION
+
+5.1. Force Majeure
+
+Contractual provision excusing performance when extraordinary events occur:
+- Must be expressly included in contract
+- Scope depends on drafting
+- Notice requirements typically apply
+
+5.2. Frustration
+
+Common law doctrine terminating contract when:
+- Supervening event occurs
+- Event is beyond parties' control
+- Event makes performance impossible, illegal, or radically different
+
+Effects:
+- Contract automatically discharged
+- Law Reform (Frustrated Contracts) Act 1943 governs financial consequences
+
+6. DISPUTE RESOLUTION
+
+6.1. Jurisdiction Clauses
+
+Parties may agree which courts have jurisdiction:
+- Exclusive: Only specified courts
+- Non-exclusive: Specified courts plus others
+
+6.2. Governing Law
+
+Choice of law clause specifies applicable law:
+- Party autonomy recognized
+- Rome I Regulation (EU Regulation 593/2008) for EU contracts
+- Common law rules post-Brexit
+
+6.3. Arbitration
+
+Alternative to court litigation:
+- Arbitration Act 1996 governs
+- London as major international arbitration seat
+- LCIA, ICC commonly used institutions
+
