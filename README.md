@@ -142,4 +142,5 @@ npm run dev
 ## Лицензия
 
 Proprietary - All rights reserved
-E-mail: volkova_taya01@mail.ru
+
+Requests: volkova_taya01@mail.ru
